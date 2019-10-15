@@ -1,0 +1,75 @@
+﻿  tutorial.cpp
+c:\users\game129\desktop\吉田学園情報ビジネス専門学校　早川樹綺也\00_制作ゲーム\00_個人制作\01_2年ゲーム作品\00_2dシューティングゲーム\00_プロジェクト\main.h(27): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  title.cpp
+c:\users\game129\desktop\吉田学園情報ビジネス専門学校　早川樹綺也\00_制作ゲーム\00_個人制作\01_2年ゲーム作品\00_2dシューティングゲーム\00_プロジェクト\main.h(27): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  stock.cpp
+c:\users\game129\desktop\吉田学園情報ビジネス専門学校　早川樹綺也\00_制作ゲーム\00_個人制作\01_2年ゲーム作品\00_2dシューティングゲーム\00_プロジェクト\main.h(27): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  sound.cpp
+c:\users\game129\desktop\吉田学園情報ビジネス専門学校　早川樹綺也\00_制作ゲーム\00_個人制作\01_2年ゲーム作品\00_2dシューティングゲーム\00_プロジェクト\main.h(27): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  skill.cpp
+c:\users\game129\desktop\吉田学園情報ビジネス専門学校　早川樹綺也\00_制作ゲーム\00_個人制作\01_2年ゲーム作品\00_2dシューティングゲーム\00_プロジェクト\main.h(27): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  score.cpp
+c:\users\game129\desktop\吉田学園情報ビジネス専門学校　早川樹綺也\00_制作ゲーム\00_個人制作\01_2年ゲーム作品\00_2dシューティングゲーム\00_プロジェクト\main.h(27): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  scene2D.cpp
+c:\users\game129\desktop\吉田学園情報ビジネス専門学校　早川樹綺也\00_制作ゲーム\00_個人制作\01_2年ゲーム作品\00_2dシューティングゲーム\00_プロジェクト\main.h(27): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  scene.cpp
+c:\users\game129\desktop\吉田学園情報ビジネス専門学校　早川樹綺也\00_制作ゲーム\00_個人制作\01_2年ゲーム作品\00_2dシューティングゲーム\00_プロジェクト\main.h(27): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  result.cpp
+c:\users\game129\desktop\吉田学園情報ビジネス専門学校　早川樹綺也\00_制作ゲーム\00_個人制作\01_2年ゲーム作品\00_2dシューティングゲーム\00_プロジェクト\main.h(27): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  renderer.cpp
+c:\users\game129\desktop\吉田学園情報ビジネス専門学校　早川樹綺也\00_制作ゲーム\00_個人制作\01_2年ゲーム作品\00_2dシューティングゲーム\00_プロジェクト\main.h(27): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  rankingscore.cpp
+c:\users\game129\desktop\吉田学園情報ビジネス専門学校　早川樹綺也\00_制作ゲーム\00_個人制作\01_2年ゲーム作品\00_2dシューティングゲーム\00_プロジェクト\main.h(27): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  ranking.cpp
+c:\users\game129\desktop\吉田学園情報ビジネス専門学校　早川樹綺也\00_制作ゲーム\00_個人制作\01_2年ゲーム作品\00_2dシューティングゲーム\00_プロジェクト\main.h(27): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  pressenter.cpp
+c:\users\game129\desktop\吉田学園情報ビジネス専門学校　早川樹綺也\00_制作ゲーム\00_個人制作\01_2年ゲーム作品\00_2dシューティングゲーム\00_プロジェクト\main.h(27): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  polygon.cpp
+c:\users\game129\desktop\吉田学園情報ビジネス専門学校　早川樹綺也\00_制作ゲーム\00_個人制作\01_2年ゲーム作品\00_2dシューティングゲーム\00_プロジェクト\main.h(27): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  player.cpp
+c:\users\game129\desktop\吉田学園情報ビジネス専門学校　早川樹綺也\00_制作ゲーム\00_個人制作\01_2年ゲーム作品\00_2dシューティングゲーム\00_プロジェクト\main.h(27): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  pause.cpp
+c:\users\game129\desktop\吉田学園情報ビジネス専門学校　早川樹綺也\00_制作ゲーム\00_個人制作\01_2年ゲーム作品\00_2dシューティングゲーム\00_プロジェクト\main.h(27): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  particle.cpp
+c:\users\game129\desktop\吉田学園情報ビジネス専門学校　早川樹綺也\00_制作ゲーム\00_個人制作\01_2年ゲーム作品\00_2dシューティングゲーム\00_プロジェクト\main.h(27): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  number.cpp
+c:\users\game129\desktop\吉田学園情報ビジネス専門学校　早川樹綺也\00_制作ゲーム\00_個人制作\01_2年ゲーム作品\00_2dシューティングゲーム\00_プロジェクト\main.h(27): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  manager.cpp
+c:\users\game129\desktop\吉田学園情報ビジネス専門学校　早川樹綺也\00_制作ゲーム\00_個人制作\01_2年ゲーム作品\00_2dシューティングゲーム\00_プロジェクト\main.h(27): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  main.cpp
+c:\users\game129\desktop\吉田学園情報ビジネス専門学校　早川樹綺也\00_制作ゲーム\00_個人制作\01_2年ゲーム作品\00_2dシューティングゲーム\00_プロジェクト\main.h(27): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  コードを生成中...
+  コンパイル中...
+  logo.cpp
+c:\users\game129\desktop\吉田学園情報ビジネス専門学校　早川樹綺也\00_制作ゲーム\00_個人制作\01_2年ゲーム作品\00_2dシューティングゲーム\00_プロジェクト\main.h(27): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  life.cpp
+c:\users\game129\desktop\吉田学園情報ビジネス専門学校　早川樹綺也\00_制作ゲーム\00_個人制作\01_2年ゲーム作品\00_2dシューティングゲーム\00_プロジェクト\main.h(27): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  input.cpp
+c:\users\game129\desktop\吉田学園情報ビジネス専門学校　早川樹綺也\00_制作ゲーム\00_個人制作\01_2年ゲーム作品\00_2dシューティングゲーム\00_プロジェクト\main.h(27): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  game.cpp
+c:\users\game129\desktop\吉田学園情報ビジネス専門学校　早川樹綺也\00_制作ゲーム\00_個人制作\01_2年ゲーム作品\00_2dシューティングゲーム\00_プロジェクト\main.h(27): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  frame.cpp
+c:\users\game129\desktop\吉田学園情報ビジネス専門学校　早川樹綺也\00_制作ゲーム\00_個人制作\01_2年ゲーム作品\00_2dシューティングゲーム\00_プロジェクト\main.h(27): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  fade.cpp
+c:\users\game129\desktop\吉田学園情報ビジネス専門学校　早川樹綺也\00_制作ゲーム\00_個人制作\01_2年ゲーム作品\00_2dシューティングゲーム\00_プロジェクト\main.h(27): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  explotion.cpp
+c:\users\game129\desktop\吉田学園情報ビジネス専門学校　早川樹綺也\00_制作ゲーム\00_個人制作\01_2年ゲーム作品\00_2dシューティングゲーム\00_プロジェクト\main.h(27): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  enemy.cpp
+c:\users\game129\desktop\吉田学園情報ビジネス専門学校　早川樹綺也\00_制作ゲーム\00_個人制作\01_2年ゲーム作品\00_2dシューティングゲーム\00_プロジェクト\main.h(27): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  effect.cpp
+c:\users\game129\desktop\吉田学園情報ビジネス専門学校　早川樹綺也\00_制作ゲーム\00_個人制作\01_2年ゲーム作品\00_2dシューティングゲーム\00_プロジェクト\main.h(27): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  defense.cpp
+c:\users\game129\desktop\吉田学園情報ビジネス専門学校　早川樹綺也\00_制作ゲーム\00_個人制作\01_2年ゲーム作品\00_2dシューティングゲーム\00_プロジェクト\main.h(27): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  cloud.cpp
+c:\users\game129\desktop\吉田学園情報ビジネス専門学校　早川樹綺也\00_制作ゲーム\00_個人制作\01_2年ゲーム作品\00_2dシューティングゲーム\00_プロジェクト\main.h(27): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  bullet.cpp
+c:\users\game129\desktop\吉田学園情報ビジネス専門学校　早川樹綺也\00_制作ゲーム\00_個人制作\01_2年ゲーム作品\00_2dシューティングゲーム\00_プロジェクト\main.h(27): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  bg.cpp
+c:\users\game129\desktop\吉田学園情報ビジネス専門学校　早川樹綺也\00_制作ゲーム\00_個人制作\01_2年ゲーム作品\00_2dシューティングゲーム\00_プロジェクト\main.h(27): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  beans.cpp
+c:\users\game129\desktop\吉田学園情報ビジネス専門学校　早川樹綺也\00_制作ゲーム\00_個人制作\01_2年ゲーム作品\00_2dシューティングゲーム\00_プロジェクト\main.h(27): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  barrier.cpp
+c:\users\game129\desktop\吉田学園情報ビジネス専門学校　早川樹綺也\00_制作ゲーム\00_個人制作\01_2年ゲーム作品\00_2dシューティングゲーム\00_プロジェクト\main.h(27): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  avatar.cpp
+c:\users\game129\desktop\吉田学園情報ビジネス専門学校　早川樹綺也\00_制作ゲーム\00_個人制作\01_2年ゲーム作品\00_2dシューティングゲーム\00_プロジェクト\main.h(27): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  コードを生成中...

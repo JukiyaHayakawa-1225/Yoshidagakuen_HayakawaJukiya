@@ -1,0 +1,89 @@
+#******************************************************************************
+#
+#		オブジェクトの配置情報
+#       Auther : Jukiya Hayakawa
+#
+#******************************************************************************
+SCRIPT	#この行は絶対に消さないこと！
+
+#------------------------------------------------------------------------------
+#  オブジェクト配置情報
+#------------------------------------------------------------------------------
+MODELSET
+	TYPE = 0
+	POS = 100.0 0.0 0.0
+	ROT = 0.0 0.0 0.0
+	SIZE = 1.0 1.0 1.0
+END_MODELSET
+
+MODELSET
+	TYPE = 0
+	POS = 100.0 0.0 100.0
+	ROT = 0.0 0.0 0.0
+	SIZE = 1.0 1.0 1.0
+END_MODELSET
+
+MODELSET
+	TYPE = 1
+	POS = 200.0 0.0 100.0
+	ROT = 0.0 0.0 0.0
+	SIZE = 1.0 1.0 1.0
+END_MODELSET
+
+MODELSET
+	TYPE = 2
+	POS = 200.0 0.0 0.0
+	ROT = 0.0 0.0 0.0
+	SIZE = 1.0 1.0 1.0
+END_MODELSET
+
+MODELSET
+	TYPE = 0
+	POS = -55.9 0.0 -2.1
+	ROT = 0.0 0.0 0.0
+	SIZE = 1.0 1.0 1.0
+END_MODELSET
+
+MODELSET
+	TYPE = 1
+	POS = -21.3 0.0 62.4
+	ROT = 0.0 0.0 0.0
+	SIZE = 1.0 1.0 1.0
+END_MODELSET
+
+MODELSET
+	TYPE = 2
+	POS = -3.6 0.0 120.1
+	ROT = 0.0 0.0 0.0
+	SIZE = 1.0 1.0 1.0
+END_MODELSET
+
+MODELSET
+	TYPE = 0
+	POS = -87.8 0.0 137.0
+	ROT = 0.0 0.0 0.0
+	SIZE = 1.0 1.0 1.0
+END_MODELSET
+
+MODELSET
+	TYPE = 0
+	POS = 39.1 0.0 316.0
+	ROT = 0.0 0.0 0.0
+	SIZE = 1.0 1.0 1.0
+END_MODELSET
+
+MODELSET
+	TYPE = 1
+	POS = 125.0 0.0 308.1
+	ROT = 0.0 0.0 0.0
+	SIZE = 1.0 1.0 1.0
+END_MODELSET
+
+MODELSET
+	TYPE = 2
+	POS = 192.0 0.0 308.1
+	ROT = 0.0 0.0 0.0
+	SIZE = 1.0 1.0 1.0
+END_MODELSET
+
+END_SCRIPT	#この行は絶対に消さないこと！
